@@ -9,6 +9,8 @@ angular.module("sportsStore")
 		{ name: "Product #3", description: "A product",
 		    category: "Category #2", price: 210 },
 		{ name: "Product #4", description: "A product",
-		    category: "Category #3", price: 202 }]
+		    category: "Category #3", price: 202 },
+		{ name: "Product #4", description: "A product",
+		    category: "Sports", price: 202 }]
 		};
 });
